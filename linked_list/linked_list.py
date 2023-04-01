@@ -1,5 +1,6 @@
 
 # Defines a node in the singly linked list
+#forked from Ada Repo
 class Node:
 
     def __init__(self, value, next_node = None):
